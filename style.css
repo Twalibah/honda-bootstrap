@@ -1,0 +1,33 @@
+.honda-bg{
+    background: rgba(38, 70, 83, 1);
+
+}
+#par{
+    text-align: justify;
+}
+.img-resize{
+    height: 243px;
+    width: 288px;
+    border-radius: 0px;
+
+}
+.grey-scale {
+    filter: grayscale(100%);
+
+}
+.button-bg {
+    background: rgba(231, 111, 81, 1);
+}
+/* happy client */
+.card-image{
+    width: 200px;
+}
+/* pop */
+.pop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.review{
+    justify-content: center;
+}
